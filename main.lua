@@ -1,1 +1,11 @@
--- this is the main files of game - put the setup code here
+function love.load()
+    
+end
+
+function love.update()
+    
+end
+
+function love.draw()
+    
+end
