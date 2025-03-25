@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "param-type-mismatch",
+        "lowercase-global",
+        "deprecated",
+        "unbalanced-assignments"
+    ]
+}
