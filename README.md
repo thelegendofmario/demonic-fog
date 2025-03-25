@@ -9,7 +9,7 @@
 </p>
 
 # What is this?
-This is a template for love2d projects.
+This is a project.
 
 # license
 this uses the GPLv3 license.
