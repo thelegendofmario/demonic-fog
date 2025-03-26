@@ -4,6 +4,8 @@
         "param-type-mismatch",
         "lowercase-global",
         "deprecated",
-        "unbalanced-assignments"
+        "unbalanced-assignments",
+        "duplicate-set-field",
+        "redundant-parameter"
     ]
 }
