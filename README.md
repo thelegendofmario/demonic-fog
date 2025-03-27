@@ -9,7 +9,7 @@
 </p>
 
 # What is this?
-This is a project.
+This is a simple physics tech demo for collision with ldtk :)
 
 # license
 this uses the GPLv3 license.
